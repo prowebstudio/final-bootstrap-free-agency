@@ -1,0 +1,492 @@
+/*
+Author name : Ariful Islam;
+email		:md.islam.ariful@gmail.com;
+website url :;
+GPL Licenes :3.4.1;
+
+*/
+
+/*
+
+
+====Index====
+1.Header                                    
+2.Fusce at
+3.Facilisis  
+4.Ante donec 
+5.Blandit rhoncus  
+6.Placerat
+7.Fooetr 
+
+*/
+ 
+/* Global css*/
+
+h1{
+
+}
+h2{
+	
+}
+h3{
+	font-weight: normal;
+font-size: 50px;
+	color: white;
+
+}
+h4{
+color: black
+font-size:30px;
+
+
+}
+h5{
+font-weight: normal;
+    padding-bottom: 25px;
+	font-size: 30px;
+	color: white;
+}
+h6{
+
+font-size: 15px;
+
+color: white;
+
+font-weight: normal;
+}
+p{
+
+}
+.cstm-btn-one{
+	border: none;
+    border-radius: 5px;
+    display: block;
+    padding: 7px 15px;
+    background: #DD4B2B;
+    color: #ffffff;
+}
+.cstm-btn-one:hover{
+	background: #ac3a21;
+	color: white;
+}
+.cstm-btn-two{
+	position: absolute;
+    top: 25%;
+    left: -9%;
+    border-radius: 5px;
+    display: block;
+       padding: 0px 29px;
+    background: #DD4B2B;
+    color: #ffffff;
+    border: 3px solid white;
+}
+.cstm-btn-two:hover{
+	border: 3px solid white;
+    border-radius: 5px;
+    display: block;
+       padding: 0px 29px;
+    background: #ac3a21;
+    color: #ffffff;
+}
+}
+
+.cstm-btn{
+	background: #F8CD53;
+    padding: 16px 30px;
+    font-size: 20px;
+    border: none;
+}
+/* Theme css*/
+
+
+.address{
+	line-height: 30px;
+	background: #F0F2F4;
+	padding: 0px 0px;
+
+}
+.add_details{
+
+	text-align: right;
+	margin: 0 auto;
+}
+.mobile{
+	border-right: 1px solid #E2E2E2;
+}
+.add_details i{ 
+font-size: 13px;
+color: #424242;
+padding: 0px 2px;
+}
+
+.add_details label{
+	font-size: 13px;
+}
+.fa.fa-facebook-official{
+	color: #1287BF;
+	font-size: 18px;
+	height: 20px;
+	width: 20px;
+	border-radius: 15px!important;
+}
+
+
+
+/* nav*/
+
+.navigation{
+	background: #EBEDEF;
+	padding: 0px;
+}
+.ab a{
+	color: black!important;
+	padding: 20px 0px;
+
+}
+
+.bc span{float: right;
+	background: black;
+	height: 5px;
+	width: 5px;
+
+}
+
+
+
+
+.hero{
+	padding: 250px 0px;
+	color: white;
+	background: url(../img/hero-banner.png)no-repeat center top;
+    background-size: cover;
+    text-align: center;
+}
+
+
+.things{
+	color: #424242;
+	background: #FFFFFF;
+	padding: 50px 0px;
+	width: 100%;
+	float: left;
+	margin: 0 auto;
+	text-align: center;
+}
+.things-title{
+	padding-bottom: 25px;: 
+}
+.things-title span{
+	border-bottom: 5px solid #424242;
+    display: block;
+    width: 15%;
+    margin: 10px auto;
+
+}
+
+.item-one img{
+	padding: 20px 0px;
+}
+
+
+
+.approach{
+	width: 100%;
+	float: left;
+	padding: 50px 0px;
+	background: #F3F3F3;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.step-one{
+	padding: 0px;
+	background: white;
+	margin-bottom: 50px;
+}
+
+.step-img-one{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	float:left;
+	padding: 0px 0px;
+}
+.step-img-one img{
+float: left;
+
+
+}
+.step-one-content{
+	       padding: 56px 81px;
+    text-align: left;
+}
+
+}
+.step-one-jpg{
+	padding: 0px 0px;
+}
+
+
+
+.step-two-content{
+	position: relative;
+	padding: 57px 71px;
+    text-align: right;
+}
+
+.step-img-two img{
+float: right;
+}
+	
+.step-img-two{
+	width: 100%;
+	padding: 0px 0px;
+	float: right;
+}
+
+.step-two{
+	padding: 0px;
+	background: white;
+	margin-bottom: 50px;
+}
+
+
+.cstm-btn-four{
+	    position: absolute;
+    top: 22%;
+    left: -12%;
+    border-radius: 5px;
+    display: block;
+    padding: 0px 29px;
+    background: #DD4B2B;
+    color: #ffffff;
+    border: 3px solid white;
+}
+
+
+.cstm-btn-four:hover{
+	border: 3px solid white;
+    border-radius: 5px;
+    display: block;
+   padding: 0px 29px;
+    background: #ac3a21;
+    color: #ffffff;
+}
+	
+
+/*our work area*/
+
+.our_work{
+	text-align: center;
+
+	background: #de2b24;
+	width: 100%;
+	height: auto;
+	float: left;
+	padding: 50px 0px;
+}
+.abc{
+	padding: 0px 0px;
+}
+.our_work_title{
+	
+	padding: 0px;
+	text-align: center;
+}
+.our_work_title span{
+	border-bottom: 5px solid #424242;
+    display: block;
+    width: 15%;
+    margin: 20px auto;
+}
+.top-news{
+	text-align: center;
+	width: 100%
+	height:100%;
+	margin: 0 auto;
+	padding: 0px;
+
+}
+
+.our-work-content{
+	background: #F35E59;
+height: 274px;
+width: 274px;
+padding:66px 0px;
+}
+
+.our-work-content h5{
+	
+	padding: 5px 0px;
+}
+
+.our-work-img{
+padding:0px;
+
+}
+.work-images{
+	height: 274px;
+
+    margin: 0 auto;
+    text-align: right;
+    display: block;
+    padding: 0px;
+
+}
+
+
+
+
+
+
+.contact{
+
+	background: #1287BF;
+}
+
+
+
+.contact-title{
+	color: white;
+	padding: 50px 0px;
+text-align: center;
+
+}
+
+.contact-title i{
+	color: white;
+	font-size: 25px;
+	
+	padding: 10px 10px;
+	
+	background: none;
+	border: 2px solid white;
+	border-radius: 25px;
+	margin-bottom: 30px;
+}
+
+.contact-title-area{
+	text-align: center;
+}
+.form-area{
+	position: relative;
+	    text-align: center;
+    background: #fff;
+    margin: 0 auto;
+    padding: 67px 50px;
+
+}
+
+.shape{
+	position: absolute;
+    width: 20%;
+    height: 30%;
+    top: -64px;
+    left: 303px;
+
+}
+
+#triangle-up{
+	background: red;
+      width: 0;
+      height: 0;
+      border-left: 50px solid transparent;
+      border-right: 50px solid transparent;
+      border-bottom: 100px solid red;
+  
+}
+
+
+.form-area p{
+	color: black;
+    padding: 23px 12px;
+}
+.form-group{
+padding: 0px 70px;
+	
+}
+.form-control{
+	    margin-bottom: 10px;
+    padding: 30px 15px;
+}
+
+.form-control:hover{
+	     box-shadow: 0px 0px 5px #1287BF;
+}
+.cstm-btn-one{
+
+	margin: 0 auto;
+}
+
+
+.footer{
+	text-align: center;
+	background: #2A2A2A;
+	padding: 50px 0px;
+}
+.footer-top{
+	text-align: center;
+	color: white;
+}
+
+
+.form-control-two{
+
+	border: none;
+	background: #515151;
+}
+::placeholder{
+	color: white!important;
+}
+
+.cstm-btn-onev{
+		background: none;
+		border: 1px solid #515151;
+}
+
+
+
+
+.footer-top  ul{
+
+	list-style-type: none;
+
+	
+	
+}
+.footer-top ul li{
+	
+	display: inline;
+	
+	background: #2A2A2A;
+	margin-left: 5px;
+
+
+
+
+}
+
+.bt{
+	border: 1px solid gray;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 32px;
+    width: 32px;
+    height: 32px;
+}
+
+
+
+.copyright{
+	background: #515151;
+	padding: 30px 0px;
+	
+}
+
+.copy{
+	color: white;
+	display: block;
+	margin: 0 auto;
+	text-align: center;
+
+}
